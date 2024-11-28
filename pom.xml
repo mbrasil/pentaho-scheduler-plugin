@@ -39,8 +39,7 @@
     </dependencies>
   </dependencyManagement>
   <modules>
-      <module>gfs-api</module>
-      <module>gfs-impl</module>
+      <module>gfs</module>
       <module>core</module>
       <module>ui</module>
       <module>assembly</module>
