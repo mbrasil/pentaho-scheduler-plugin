@@ -64,7 +64,7 @@
     </dependency>
     <dependency>
       <groupId>pentaho</groupId>
-      <artifactId>pentaho-generic-file-system-impl</artifactId>
+      <artifactId>pentaho-generic-file-system-api</artifactId>
       <version>${project.version}</version>
       <scope>compile</scope>
     </dependency>
